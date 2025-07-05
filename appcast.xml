@@ -18,5 +18,13 @@
             <sparkle:minimumSystemVersion>13.5</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/Enryun/TidyMac/TidyMac.dmg" length="5468880" type="application/octet-stream" sparkle:edSignature="ZqUCTYwjwkKgDkYaq97E6FRmRKNezMYBl6Z7hVy6X2MG455zxWeg3WfEfnQFvknV8L9GEiJ0+UGp7EeUP3KDCA=="/>
         </item>
+        <item>
+            <title>1.1.1</title>
+            <pubDate>Sat, 05 Jul 2025 20:59:35 +0700</pubDate>
+            <sparkle:version>1</sparkle:version>
+            <sparkle:shortVersionString>1.1.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.5</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/Enryun/TidyMac/blob/main/TidyMac.dmg" length="5468668" type="application/octet-stream" sparkle:edSignature="KDpEJ+jwxyBNbEbGSY1b3W4u9Z/uRhdZEMGM1X7amGolCeuNv31Pc+JbhHj1DJp3gUxmh1TjOCen1dyjgzmqCw=="/>
+        </item>
     </channel>
 </rss>
